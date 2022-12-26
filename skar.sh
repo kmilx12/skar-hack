@@ -2,7 +2,7 @@
 #!/bin/bash
 # Coded by: thelinuxchoice (Don't change, noob!)
 # https://t.me/Skar441
-# www.instagram.com/x__xoxx
+# www.instagram.com/o70p0_
 
 trap 'store; exit 1;' 2
 
